@@ -32,6 +32,12 @@
 
 ![image](https://user-images.githubusercontent.com/75091300/199565394-1577deab-8035-4d7b-b02e-d863e6638e3f.png)
 
+- **Q: if i use on local?**
+- A: Create .env file and add "TOKEN= "your token here" " in your file.
+
+
+
+<br />
 - **Q: Where can I find the installation steps?**
 - A: [Installation](https://github.com/Mewzax/Discord-Selfbot-RPC/wiki/Installation)
 
