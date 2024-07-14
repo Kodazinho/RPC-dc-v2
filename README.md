@@ -7,7 +7,7 @@
  
   <br>
   <b>The most efficient Discord RPC you'll ever find.</b><br>
-  Made with ❤ by <b><a href="https://github.com/Mewzax">Mewzax</a></b>
+  Made with ❤ by <b><a href="https://github.com/Mewzax">Koda</a></b>
   <br>
   If you liked this project, please consider <b>starring</b> it <3
 </p>
@@ -39,7 +39,7 @@
 
 <br />
 - **Q: Where can I find the installation steps?**
-- A: [Installation](https://github.com/Mewzax/Discord-Selfbot-RPC/wiki/Installation)
+- A: [Installation](https://github.com/Kodazinho/RPC-dc-v2/wiki)
 
 <br />
 
