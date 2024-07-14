@@ -3,6 +3,7 @@ const client = new discord.Client();
 const config = require("./config")
 const express = require('express');
 const console = require("./utils/logger")
+const console = require("./utils/loggerRPC")
 const app = express();
 
 module.exports = client;
