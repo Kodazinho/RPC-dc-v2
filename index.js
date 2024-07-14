@@ -5,6 +5,7 @@ const config = require("./config")
 const express = require('express');
 const console = require("./utils/logger")
 const { logar } = require('./utils/loggerRPC');
+require('dotenv').config();
 logar()
 const app = express();
 
